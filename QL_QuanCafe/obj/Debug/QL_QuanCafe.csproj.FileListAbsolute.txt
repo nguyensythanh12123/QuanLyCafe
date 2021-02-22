@@ -1,0 +1,33 @@
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\bin\Debug\QL_QuanCafe.exe.config
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\bin\Debug\QL_QuanCafe.exe
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\bin\Debug\QL_QuanCafe.pdb
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.csprojResolveAssemblyReference.cache
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.Properties.Resources.resources
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.csproj.GenerateResource.Cache
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.exe
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.pdb
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.DangKi.resources
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.DangNhap.resources
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.Home.resources
+D:\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.BanHang.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\bin\Debug\QL_QuanCafe.exe.config
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.exe
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.pdb
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\bin\Debug\QL_QuanCafe.exe
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\bin\Debug\QL_QuanCafe.pdb
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.csprojResolveAssemblyReference.cache
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.DangKi.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.DangNhap.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.Home.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.Properties.Resources.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.BanHang.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.csproj.GenerateResource.Cache
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.QL_MonAn.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.QL_LuongNhanVien.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.QL_NhanVien.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.QL_NhapXuat.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.QL_NguyenLieu.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.QL_Ban_KhuyenMai.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.TK_DoanhThu.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.TK_NguyenLieu.resources
+D:\HỌC TẬP\DoAn\CongNghe.net\QL_QuanCafe\QL_QuanCafe\obj\Debug\QL_QuanCafe.XemNguyenLieu.resources
